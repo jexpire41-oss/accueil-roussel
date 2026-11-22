@@ -15,7 +15,7 @@ Deux maquettes de référence : mobile (390 px) et ordinateur (1440 px). Le mobi
 ## Installation
 
 ```bash
-git clone <adresse-du-depot>
+git clone <https://github.com/jexpire41-oss/accueil-roussel.git>
 cd accueil-roussel
 npm install
 ```
